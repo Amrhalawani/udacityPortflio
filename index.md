@@ -30,8 +30,8 @@ For more details see [GitHub Link](https://github.com/Amrhalawani/MaterialDesign
 
 ### Parrot Notes
 Designed and implemented Simple Note app that saves user notes to the cloud, using firebase as a backend
--Stage 1 (Design and Create an App Idea): Writing a description of app, UI flow mocks, and Simple plan of tasks to build the app.
--Stage 2 (Build): Coding Publish the app to Google Play.
+- Stage 1 (Design and Create an App Idea): Writing a description of app, UI flow mocks, and Simple plan of tasks to build the app.
+- Stage 2 (Build): Coding Publish the app to Google Play.
 For more details see [Google play App Link](https://goo.gl/fA345X).
 
 
