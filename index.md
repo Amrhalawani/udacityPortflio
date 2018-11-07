@@ -1,4 +1,6 @@
 ## Udacity Course Portflio
+![N|Solid](https://github.com/Amrhalawani/udacityPortflio/blob/master/udacitygrowwithgoogle.png?raw=true)
+
 by Amr halawani
 
 https://grow.google/programs/udacity/
@@ -16,8 +18,8 @@ handling Customization of Gradle build, and exploring advanced topics like app t
 For more details see [GitHub Link](https://github.com/Amrhalawani/BuilditBiggerProjFinal).
 
 ### Baking Time
-	show videos of steps involved in a recipe, two pane screen, plus UI-Tasting 
-	Programmed by using Retrofit, ExoPlayer, Gson, Espresso tasting, Home Widget, Two-pane layouts.
+-	show videos of steps involved in a recipe, two pane screen, plus UI-Tasting 
+-	Programmed by using Retrofit, ExoPlayer, Gson, Espresso tasting, Home Widget, Two-pane layouts.
 For more details see [Code](https://github.com/Amrhalawani/BakingApp)
 
 
@@ -28,8 +30,8 @@ For more details see [GitHub Link](https://github.com/Amrhalawani/MaterialDesign
 
 ### Parrot Notes
 Designed and implemented Simple Note app that saves user notes to the cloud, using firebase as a backend
-Stage 1 (Design and Create an App Idea): Writing a description of app, UI flow mocks, and Simple plan of tasks to build the app.
-Stage 2 (Build): Coding Publish the app to Google Play.
+-Stage 1 (Design and Create an App Idea): Writing a description of app, UI flow mocks, and Simple plan of tasks to build the app.
+-Stage 2 (Build): Coding Publish the app to Google Play.
 For more details see [Google play App Link](https://goo.gl/fA345X).
 
 
